@@ -293,3 +293,307 @@ VS Code
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
+---
+
+# 📊 Developer Dashboard
+
+<div align="center">
+
+| 🎯 Category | 🚀 Progress |
+|-------------|-------------|
+| Arrays | ████████████████████ 100% |
+| Sorting | ████████████████████ 100% |
+| Searching | ███████████████░░░░ 75% |
+| Strings | ██████████████░░░░░ 70% |
+| Linked List | ████████████░░░░░░ 60% |
+| Stack | ███████████░░░░░░░░ 55% |
+| Queue | ██████████░░░░░░░░░ 50% |
+| Trees | ███████░░░░░░░░░░░░ 35% |
+| BST | ██████░░░░░░░░░░░░░ 30% |
+| Heap | █████░░░░░░░░░░░░░░ 25% |
+| Graph | ████░░░░░░░░░░░░░░░ 20% |
+| Dynamic Programming | ███░░░░░░░░░░░░░░░░ 15% |
+| Trie | ██░░░░░░░░░░░░░░░░░ 10% |
+
+</div>
+
+---
+
+# 🧠 DSA Learning Roadmap
+
+```text
+Programming Basics
+        │
+        ▼
+Arrays
+        │
+        ▼
+Strings
+        │
+        ▼
+Searching
+        │
+        ▼
+Sorting
+        │
+        ▼
+Recursion
+        │
+        ▼
+Linked List
+        │
+        ▼
+Stack
+        │
+        ▼
+Queue
+        │
+        ▼
+HashMap
+        │
+        ▼
+Binary Search
+        │
+        ▼
+Trees
+        │
+        ▼
+BST
+        │
+        ▼
+Heap
+        │
+        ▼
+Graph
+        │
+        ▼
+Greedy
+        │
+        ▼
+Backtracking
+        │
+        ▼
+Dynamic Programming
+        │
+        ▼
+Advanced Graph Algorithms
+        │
+        ▼
+Competitive Programming
+```
+
+---
+
+# 📅 Daily Coding Routine
+
+```text
+🌅 Morning
+
+✔ Read Concepts
+✔ Review Previous Problems
+
+──────────────
+
+☀ Afternoon
+
+✔ Solve 2 DSA Problems
+✔ Optimize Solutions
+
+──────────────
+
+🌙 Evening
+
+✔ Push to GitHub
+✔ Revise Algorithms
+✔ Read Interview Questions
+```
+
+---
+
+# 🏆 Repository Goals
+
+| Goal | Status |
+|------|--------|
+| Solve 100 Arrays Problems | 🟢 |
+| Master Sorting | 🟢 |
+| Complete Trees | 🟡 |
+| Complete Graphs | 🟡 |
+| Complete DP | 🔴 |
+| Solve 1000 Problems | 🟡 |
+| Open Source Contribution | 🟢 |
+| Build Interview Notes | 🟢 |
+
+---
+
+# 📦 Repository Structure
+
+```text
+DSA/
+│
+├── Arrays
+│
+├── Strings
+│
+├── Searching
+│
+├── Sorting
+│
+├── LinkedList
+│
+├── Stack
+│
+├── Queue
+│
+├── Trees
+│
+├── BST
+│
+├── Heap
+│
+├── Graph
+│
+├── Greedy
+│
+├── DynamicProgramming
+│
+├── Backtracking
+│
+├── Trie
+│
+├── SegmentTree
+│
+├── FenwickTree
+│
+├── UnionFind
+│
+└── README.md
+```
+
+---
+
+# 📖 Learning Timeline
+
+```text
+2025
+│
+├── Python
+├── Git
+├── GitHub
+└── Problem Solving
+
+2026
+│
+├── Arrays
+├── Sorting
+├── Searching
+├── Linked List
+├── Stack
+├── Queue
+└── Trees
+
+2027
+│
+├── Graph
+├── DP
+├── System Design
+├── Open Source
+└── Placements
+```
+
+---
+
+# 🚀 Current Focus
+
+```text
+Python
+████████████████████
+
+DSA
+██████████████████░░
+
+Problem Solving
+█████████████████░░░
+
+SQL
+██████████████░░░░░░
+
+GitHub
+██████████████████░░
+
+Interview Prep
+█████████████░░░░░░░
+```
+
+---
+
+# 💻 Coding Principles
+
+✔ Readability over Complexity
+
+✔ Simplicity over Cleverness
+
+✔ Optimize Only When Needed
+
+✔ Understand Before Memorizing
+
+✔ Practice Every Day
+
+✔ Learn from Mistakes
+
+✔ Never Give Up
+
+---
+
+# 📚 Resources I Use
+
+- GeeksforGeeks
+- LeetCode
+- HackerRank
+- CodeStudio
+- NeetCode
+- CP Algorithms
+- InterviewBit
+- Python Documentation
+- Visualgo
+- YouTube
+
+---
+
+# 🏅 Milestones
+
+```text
+☑ Learn Python
+
+☑ Learn Git
+
+☑ Learn GitHub
+
+☑ Solve 100 Problems
+
+☑ Master Sorting
+
+☐ Solve 250 Problems
+
+☐ Solve 500 Problems
+
+☐ Solve 1000 Problems
+
+☐ Become SDE
+```
+
+---
+
+# 🎯 Long-Term Vision
+
+> Build a repository that helps both me and other learners
+> understand Data Structures and Algorithms through
+> clean implementations, detailed explanations,
+> and consistent practice.
+
+---
+
+<div align="center">
+
+## 🚀 Keep Learning • Keep Building • Keep Improving 🚀
+
+</div>
