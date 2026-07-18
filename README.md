@@ -1,458 +1,89 @@
-# 🚀 Aditya Kumar Roy \| DSA Repository
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,100:00C9FF&text=Aditya%20Kumar%20Roy&fontAlignY=40&fontSize=45&fontColor=ffffff"/>
+</p>
 
-## 👋 About Me
+<h1 align="center">🚀 Data Structures & Algorithms Repository</h1>
 
--   🎓 B.Tech CSE
--   🐍 Python Developer
--   📚 DSA Enthusiast
--   🚀 Aspiring Software Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Python+Developer;DSA+Enthusiast;Future+Software+Engineer;Learning+Something+New+Every+Day"/>
+</p>
 
-## 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-black?style=for-the-badge&logo=github"/>
+</p>
 
-Python • Git • GitHub • SQL • VS Code
+---
 
-## 📊 GitHub Stats
+# 👋 About
 
-Replace `YOUR_USERNAME` in GitHub stat URLs.
+🎓 B.Tech CSE Student
 
-## 📂 Repository Structure
+🐍 Python Developer
 
-``` text
-DSA/
-├── Arrays
-├── Strings
-├── Trees
-├── Graph
-└── DP
-```
+📚 Solving DSA daily
 
-### 📘 DSA Topic 1
+🚀 Preparing for Software Engineering roles
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
+---
 
-### 📘 DSA Topic 2
+# 🛠 Tech Stack
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
+<p align="center">
 
-### 📘 DSA Topic 3
+<img src="https://skillicons.dev/icons?i=python,java,git,github,mysql,vscode"/>
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
+</p>
 
-### 📘 DSA Topic 4
+---
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
+# 📊 GitHub Analytics
 
-### 📘 DSA Topic 5
+<!-- GitHub Stats -->
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
+<!-- GitHub Streak -->
 
-### 📘 DSA Topic 6
+<!-- Top Languages -->
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
+---
 
-### 📘 DSA Topic 7
+# 📚 DSA Progress
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
+🟩 Arrays
 
-### 📘 DSA Topic 8
+🟩 Strings
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
+🟨 Trees
 
-### 📘 DSA Topic 9
+🟥 Graph
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
+🟥 Dynamic Programming
 
-### 📘 DSA Topic 10
+---
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
+# 📂 Repository
 
-### 📘 DSA Topic 11
+Arrays • Strings • Searching • Sorting • Linked List • Trees • Graph • DP
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
+---
 
-### 📘 DSA Topic 12
+# 🎯 Current Goals
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
+✔ 500+ Problems
 
-### 📘 DSA Topic 13
+✔ Master DSA
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
+✔ Open Source
 
-### 📘 DSA Topic 14
+✔ Crack Product Companies
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
+---
 
-### 📘 DSA Topic 15
+# 💻 Coding Profiles
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
+GitHub • LeetCode • Codeforces • CodeChef • HackerRank • GeeksforGeeks
 
-### 📘 DSA Topic 16
+---
 
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 17
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 18
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 19
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 20
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 21
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 22
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 23
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 24
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 25
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 26
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 27
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 28
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 29
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 30
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 31
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 32
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 33
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 34
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 35
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 36
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 37
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 38
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 39
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 40
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 41
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 42
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 43
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 44
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 45
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 46
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 47
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 48
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 49
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 50
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 51
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 52
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 53
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 54
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 55
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 56
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 57
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 58
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 59
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-### 📘 DSA Topic 60
-
--   Clean solution
--   Time Complexity
--   Space Complexity
--   Notes
-
-## 🎯 Goals
-
--   Solve 1000+ Problems
--   Master DSA
--   Open Source
-
-## 📬 Connect
-
-GitHub: https://github.com/YOUR_USERNAME LinkedIn:
-https://linkedin.com/in/YOUR_USERNAME
+# ⭐ Thanks for visiting!
