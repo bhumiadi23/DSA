@@ -158,13 +158,71 @@ Goal       : Software Engineer
 </p>
 
 ---
+<!-- =========================================== -->
+<!--               QUOTE SECTION                -->
+<!-- =========================================== -->
 
-## 💡 Quote
+<h2 align="center">💭 Quote of the Day</h2>
 
-> **"Consistency beats talent when talent doesn't stay consistent."**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+</p>
+
+<div align="center">
+
+> ### 🚀 *"Success isn't built overnight. It's built commit by commit, problem by problem, and day by day."*
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
+
+### 💡 My Coding Philosophy
+
+✨ Learn every day  
+🐛 Embrace bugs as lessons  
+📚 Never stop improving  
+🚀 Build projects that solve real problems
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."**  
+> — *John Johnson*
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Personal Motto
+
+```text
+Code.
+Learn.
+Build.
+Repeat.
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,100:00C9FF"/>
+
+⭐ **Thanks for visiting my repository!**
+
+*Happy Coding!* 🚀
+
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:6C63FF,100:00C9FF"/>
 </p>
