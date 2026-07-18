@@ -1,23 +1,19 @@
-# 🚀 Premium DSA Repository README
+# 🚀 Aditya Kumar Roy \| DSA Repository
 
 ## 👋 About Me
 
--   🎓 B.Tech CSE Student
+-   🎓 B.Tech CSE
 -   🐍 Python Developer
 -   📚 DSA Enthusiast
 -   🚀 Aspiring Software Engineer
 
 ## 🛠 Tech Stack
 
--   Python
--   Git
--   GitHub
--   SQL
--   VS Code
+Python • Git • GitHub • SQL • VS Code
 
 ## 📊 GitHub Stats
 
-Replace `YOUR_USERNAME` in GitHub stats cards.
+Replace `YOUR_USERNAME` in GitHub stat URLs.
 
 ## 📂 Repository Structure
 
@@ -25,559 +21,438 @@ Replace `YOUR_USERNAME` in GitHub stats cards.
 DSA/
 ├── Arrays
 ├── Strings
-├── Sorting
 ├── Trees
-├── Graphs
-├── DP
-└── Notes
+├── Graph
+└── DP
 ```
+
+### 📘 DSA Topic 1
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 2
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 3
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 4
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 5
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 6
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 7
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 8
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 9
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 10
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 11
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 12
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 13
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 14
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 15
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 16
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 17
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 18
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 19
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 20
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 21
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 22
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 23
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 24
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 25
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 26
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 27
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 28
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 29
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 30
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 31
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 32
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 33
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 34
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 35
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 36
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 37
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 38
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 39
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 40
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 41
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 42
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 43
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 44
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 45
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 46
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 47
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 48
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 49
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 50
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 51
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 52
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 53
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 54
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 55
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 56
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 57
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 58
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 59
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
+
+### 📘 DSA Topic 60
+
+-   Clean solution
+-   Time Complexity
+-   Space Complexity
+-   Notes
 
 ## 🎯 Goals
 
--   Solve 1000+ problems
+-   Solve 1000+ Problems
 -   Master DSA
 -   Open Source
 
-## 🤝 Connect
+## 📬 Connect
 
--   GitHub: https://github.com/YOUR_USERNAME
--   LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-
-### 📘 Section 1
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 2
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 3
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 4
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 5
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 6
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 7
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 8
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 9
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 10
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 11
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 12
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 13
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 14
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 15
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 16
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 17
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 18
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 19
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 20
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 21
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 22
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 23
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 24
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 25
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 26
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 27
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 28
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 29
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 30
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 31
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 32
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 33
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 34
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 35
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 36
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 37
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 38
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 39
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 40
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 41
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 42
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 43
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 44
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 45
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 46
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 47
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 48
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 49
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 50
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 51
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 52
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 53
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 54
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 55
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 56
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 57
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 58
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 59
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 60
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 61
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 62
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 63
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 64
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 65
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 66
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 67
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 68
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 69
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 70
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 71
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 72
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 73
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 74
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 75
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 76
-
--   Problem List
--   Notes
--   Complexity
--   Example
-
-### 📘 Section 77
-
--   Problem List
--   Notes
--   Complexity
--   Example
+GitHub: https://github.com/YOUR_USERNAME LinkedIn:
+https://linkedin.com/in/YOUR_USERNAME
